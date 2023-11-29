@@ -11,7 +11,7 @@ const initialState: NavbarState = {
 };
 
 export const navbarSlice = createSlice({
-  name: 'step',
+  name: 'navbar',
   initialState,
   reducers: {
     increment: (state) => {

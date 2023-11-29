@@ -3,3 +3,8 @@ export enum GenderEnum {
   Female = "FEMALE",
   Others = "OTHERS",
 }
+
+export enum CurriculumStyleEnum {
+  Default = 'DEFAULT',
+  RedDefault = 'RED_DEFAULT',
+}
