@@ -15,7 +15,7 @@ export interface User {
   curriculumId: string;
 }
 
-export interface CurriculumState {
+export interface Curriculum {
   _id: string;
   userId: string;
   url: string;
